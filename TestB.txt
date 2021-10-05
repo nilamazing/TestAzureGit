@@ -1,2 +1,2 @@
-��Test B - Fixed
+Test B - Fixed - Issue #57
 
